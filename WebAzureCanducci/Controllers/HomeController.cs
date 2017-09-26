@@ -12,6 +12,7 @@ namespace WebAzureCanducci.Controllers
     {
         public IActionResult Index()
         {
+
             return View();
         }
 
